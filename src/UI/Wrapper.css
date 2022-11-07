@@ -1,0 +1,9 @@
+.wrapper {
+  height: 50px;
+  background-color: rgba(235, 28, 28, 0.87);
+  color: white;
+  font-size: larger;
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}

@@ -1,0 +1,33 @@
+.justify {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 20px;
+}
+
+.startDiv {
+  display: flex;
+  align-items: center;
+}
+.startDiv span,
+.endDiv span {
+  margin-right: 10px;
+}
+
+.endDiv {
+  display: flex;
+  align-items: center;
+}
+
+.btn {
+  padding: 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  border: none;
+  margin-left: 25px;
+}
+
+.btn:hover {
+  color: white;
+  background-color: red;
+}
